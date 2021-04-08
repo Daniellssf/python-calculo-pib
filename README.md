@@ -1,5 +1,7 @@
 # python-calculo-pib
 
+O código Python contém as resoluções das propostas abaixo e foi desenvolvido no Jupiter notebook:
+
 1. Desenvolva um programa contendo uma função que permita ao usuário solicitar o PIB de um país para um determinado ano.
 • O programa solicita ao usuário o nome do país e o ano desejado.
 • Caso o país solicitado ou o ano não sejam válidos, o programa deve informar, na saída, a mensagem: "Não existem dados para o país escolhido." ou "Ano não existe, tente os anos de 2013 a 2020."
